@@ -19,13 +19,13 @@ lomba akan berakibat diskualifikasi.
 
 ### Daftar Kategori
 
-| Kategori | Total |
-| -------- | ----- |
-| Web      | 3     |
-| Rev      | 3     |
-| Pwn      | 3     |
-| Cry      | 3     |
-| For      | 3     |
+| Kategori | Total | Difficulty              |
+| -------- | ----- | ----------------------- |
+| Web      | 3     | Baby, easy, easy-medium |
+| Rev      | 3     | Baby, easy, easy-medium |
+| Pwn      | 3     | Baby, easy, easy-medium |
+| Cry      | 3     | Baby, easy, easy-medium |
+| For      | 3     | Baby, easy, easy-medium |
 
 ### Format Flag
 
