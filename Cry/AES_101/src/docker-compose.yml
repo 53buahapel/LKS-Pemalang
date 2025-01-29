@@ -1,0 +1,7 @@
+services:
+  web:
+    build: .
+    container_name: aes_web
+    ports:
+      - "9000:80"
+    restart: always
